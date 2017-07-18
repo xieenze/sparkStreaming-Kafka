@@ -1,0 +1,2 @@
+# sparkStreaming-Kafka
+使用sparkStreaming+kafka+websocket+highchart实现流式数据分析，使用scala和python混合编程
